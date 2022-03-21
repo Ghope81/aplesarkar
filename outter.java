@@ -11,6 +11,10 @@ public class outter {
 	void test() {
 		System.out.println("this is inner class method");
 	}
+
+	void setting(){
+
+		system.out.println ("This is my setting method");
 	}
 
 }
